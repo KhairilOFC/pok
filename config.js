@@ -41,56 +41,56 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 const readMore = more.repeat(4001)
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/kabulsaputra21'
-global.tautanwa = 'https://wa.me/message/KRXQFJXHYZDNL1'
-global.sgh = 'https://github.com/ZykoBotz-MD' //github
-global.sgc = 'https://chat.whatsapp.com/HT6660rF8Jr9AqhfrQFJgf' //group whatsapp
+global.sig = 'https://instagram.com/coglah_07'
+global.tautanwa = 'https://wa.me/message/MUUP3FHJ3MLOC1'
+global.sgh = 'https://github.com/KhairilOFC' //github
+global.sgc = 'https://chat.whatsapp.com/Bn7PxZ06B3GL8BDEZhC36T' //group whatsapp
 global.sdc = '-' //discord
-global.linkyt = 'https://youtube.com/@zykobotz'
-global.syt = 'https://youtube.com/@zykobotz'
+global.linkyt = 'https://youtube.com/@khairilofc'
+global.syt = 'https://youtube.com/@khairilofc'
 global.sfb = 'https://www.facebook.com/' // facebook
-global.snh = 'https://chat.whatsapp.com/HT6660rF8Jr9AqhfrQFJgf'
-global.media = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
-global.wame = 'https://wa.me/message/KRXQFJXHYZDNL1'
+global.snh = 'https://chat.whatsapp.com/Bn7PxZ06B3GL8BDEZhC36T'
+global.media = 'https://telegra.ph/file/eb25a809c67129f434ea6.jpg'
+global.wame = 'https://wa.me/message/MUUP3FHJ3MLOC1'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['6282124690625', '𝑍𝑌𝐾𝑂-𝑀𝐷', true],
-['13345280640', '𝑍𝑌𝐾𝑂-𝑀𝐷', true]
+['60109102984', 'Vincenzoo`', true],
+['601124024797', 'Kao Akebi-Bot愛', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '18504178231' //pasang no bot lo 
-global.nomorown = '6282124690625' //pasang no own lo
-global.nomorown1 = '6282124690625'
-global.nomorown2 = '6282124690625'
+global.nomorbot = '601124024797' //pasang no bot lo 
+global.nomorown = '60109102984' //pasang no own lo
+global.nomorown1 = '60109102984'
+global.nomorown2 = '60109102984'
 global.nomorwa = '0'
-global.nameown = '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.gcname = '𝑍𝑌𝐾𝑂-𝑀𝐷 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
-global.author = 'Created By 𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.namabot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.namebot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.packname2 = '𝑍𝑌𝐾𝑂-𝑀𝐷'
+global.nameown = 'Vincenzoo`'
+global.gcname = 'bot'
+global.author = 'Created By Vincenzoo`'
+global.namabot = 'Kao Akebi-Bot愛'
+global.namebot = 'Kao Akebi-Bot愛'
+global.packname2 = 'Vincenzoo`'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.nameown1= '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.nameown2 = '𝑍𝑌𝐾𝑂-𝑀𝐷'
+global.nameown1= 'Vincenzoo`'
+global.nameown2 = 'Khairil春'
 
 /*============== STAFF ==============*/
 //kosong
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.wm2 = '𝑍𝑌𝐾𝑂-𝑀𝐷 '
+global.wm = '© Vincenzoo`'
+global.wm2 = 'Vincenzoo`'
 global.packname = wm
 global.watermark = wm
-global.titlebot = `𝑍𝑌𝐾𝑂-𝑀𝐷`
+global.titlebot = `Khairil春`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.stickpack = '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.stickauth = `© 𝑍𝑌𝐾𝑂-𝑀𝐷`
+global.stickpack = 'Kao Akebi-Bot愛'
+global.stickauth = `© Khairil春`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TIME INFO  ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -106,22 +106,22 @@ global.intro = 'https://telegra.ph/file/676bac7774d2785b7ee1e.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.Linkgc = 'Bentar'
-global.lynk = 'https://lynk.id/hyuuraofc'
+global.lynk = 'https://linkfly.to/Khairil'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.pdana = '08XXXXXXXXXX' //pasang no lo sinih buat donasi 
-global.povo = '08XXXXXXXXXX' 
-global.pgopay = '08XXXXXXXXXX'
+global.pdana = '-' //pasang no lo sinih buat donasi 
+global.povo = '-' 
+global.pgopay = '-'
 global.plinkaja = '-' //link aja
-global.ppulsa = '08XXXXXXXXXX'
-global.ppulsa2 = '08XXXXXXXXXX'
-global.psaweria = 'https://saweria.co/hyuura'
-global.donasikabul = 'Jasa Sewa ZykoBotz-MD\nhttps://lynk.id/kabul',
+global.ppulsa = '-'
+global.ppulsa2 = '-'
+global.psaweria = '-'
+global.donasikabul = 'Jasa Sewa Kao Akebi-Bot愛\n',
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.ListHargaSewa = '├ 5 Hari IDR 3.000\n├ 7 Hari IDR 5.000\n├ 15+5 Hari IDR 10.000\n├ 30 Hari IDR 15.000'
+global.ListHargaSewa = '├ 7 Hari MYR 5\n├ 1 BULAN MYR 10\n├ 2 BULAN MYR 20'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -347,9 +347,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/kabulsaputra21"
+global.urlnya = "https://www.instagram.com/coglah_07"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '6282124690625'
+global.phn = '60109102984'
 
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
